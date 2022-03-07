@@ -6,11 +6,13 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 To run the local test:
 
-```npx hardhat run scripts/run.js
+```shell
+npx hardhat run scripts/run.js
 ```
 
 To deploy in the Mumbai testnet:
-```npx hardhat run scripts/deploy.js --network mumbai
+```shell
+npx hardhat run scripts/deploy.js --network mumbai
 ```
 
 Try running some of the following tasks:
